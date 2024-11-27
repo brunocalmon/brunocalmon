@@ -27,13 +27,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **GCP, Prometheus Stack, Java 21, Springboot, FluxCD & PostgreSQL**
+- 🔭 I’m currently working on **Java 21, Springboot, GCP, Terraforms, FluxCD, Docker, Kubernetes, Prometheus, Grafana & PostgreSQL**
 
 - 🌱 I’m currently reading **Three-Body Problem.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **GCP**
 
-- 💬 Ask me about **Java, Docker, Data Structure, Agile**
+- 💬 Ask me about **Java, Docker, Data Structure & Agile**
 
 - 📫 Feel free to reach me out **brunoxaviercalmon@outlook.com**
 <!--Intro end-->
