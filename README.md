@@ -20,94 +20,59 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Amidst the cold hum of quantum algorithms, humanity's greatest paradox remained: 
-      the more we knew, the less we understood.</h2></summary>
+    <summary><h2 style="display: inline-block">Rio-born, now at home in Bamberg. Proud dad and husband, curious by nature, and always happy to explore a new place, try good food, or get lost in a metroidvania.</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Java 21, Springboot, GCP, Terraforms, FluxCD, Docker, Kubernetes, Prometheus, Grafana & PostgreSQL**
+- 🔭 I’m building **Maestro** and exploring how AI agents can work together
 
-- 🌱 I’m currently reading **Three-Body Problem.**
+- 🧩 I’m studying **decompilation** in my free time
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **GCP**
+- 🎨 I’m learning **Blender** to create a simple game character with interchangeable faces
 
-- 💬 Ask me about **Java, Docker, Data Structure & Agile**
+- 🏠 My three-node **homelab** is where I experiment with Kubernetes and GitOps
 
-- 📫 Feel free to reach me out **brunoxaviercalmon@outlook.com**
+- 🎮 Away from work: **family, travel, hard sci-fi, metroidvanias, and good food**
+
+- 📫 Get in touch through [my website](https://brunocalmon.github.io/#contact)
 <!--Intro end-->
 
 
 
-<!--- stats & Trophy (start) -->
+<!--- GitHub stats (start) -->
 <p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=brunocalmon&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=brunocalmon&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=brunocalmon&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocalmon&theme=dark&hide_border=true&layout=compact&langs_count=8"/>
   
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=brunocalmon&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
 </p>        
-<!--- stats (end) -->
+<!--- GitHub stats (end) -->
 
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">A Few Tools I Use 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,aws,gcp,azure,heroku,firebase,cloudflare,cpp,java,go,js,py,ts,clojure,sass,express,html,nodejs,gradle,maven,npm,webpack,spring,mongodb,mysql,postgres,redis,rabbitmq,regex,discordjs,bash,linux,mint,ubuntu,md,vscode,idea,powershell,grafana,prometheus,godot,postman,nginx&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,java,go,js,py,ts,clojure,spring,nodejs,kafka,mongodb,postgres,redis,aws,gcp,azure,docker,kubernetes,terraform,flux,prometheus,grafana,blender,godot,linux&perline=9" />
   </a>
 </p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/bruno-calmon/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>  
-</p>
-
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=brunocalmon&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
 
 
 <!--horizontal divider(gradiant)-->
